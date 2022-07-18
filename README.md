@@ -1,3 +1,9 @@
+# Intro Programming Course
+1. Make an account at https://www.edx.org/
+2. Errol in class EdX CS50
+![image](https://user-images.githubusercontent.com/40649639/179434315-b507a9a8-9abc-4b85-be3d-b9c155c508b5.png)
+
+
 # Game-Dev-Learning-Guide
 Learning C# and Unity 
 
